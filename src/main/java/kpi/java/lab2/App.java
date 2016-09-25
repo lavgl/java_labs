@@ -1,4 +1,4 @@
-package com.kpi.lab1;
+package kpi.java.lab2;
 
 /**
  * Hello world!

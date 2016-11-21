@@ -14,7 +14,7 @@ public class Reader {
         try {
             lines = Files.readAllLines(path);
         } catch (IOException e) {
-            e.printStackTrace();
+            e.printStackTrace(); // не есть эксепшн
         }
 
         return lines;
